@@ -1,4 +1,4 @@
-👋 Hi, I’m @cg-commits  
+👋 Hi, I’m Chris
 👀 I’m interested in building clean, thoughtful, and useful software – currently exploring the world of iOS development.  
 🌱 I’m currently learning Swift, SwiftUI and Kotlin – starting from the fundamentals, one step at a time.  
 💬 I like asking “why is it like that?” – especially when learning something new.  
